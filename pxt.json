@@ -1,0 +1,21 @@
+{
+    "name": "mxbit",
+    "version": "0.0.11",
+    "description": "Semia mxbit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+	"IR": "github:Tinkertanker/pxt-ir-receiver",
+	"NeoPixel": "github:microsoft/pxt-neopixel",
+	"Sonarbit": "github:elecfreaks/pxt-sonarbit"
+    },
+    "files": [
+        "README.md",
+        "mxbit.ts"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true,
+    "installedVersion": "github:elecfreaks/pxt-robit#v0.0.11"
+}
